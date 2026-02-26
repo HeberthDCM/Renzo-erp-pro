@@ -1,0 +1,7 @@
+{
+  "name": "Renzo ERP Pro",
+  "description": "A high-performance responsive ERP system featuring modular navigation, multi-level access control, and a sleek red/black theme with dark mode support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
